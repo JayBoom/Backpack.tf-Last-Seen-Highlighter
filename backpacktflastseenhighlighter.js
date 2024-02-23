@@ -47,7 +47,7 @@
                   descriptionText.includes('9 months ago') ||
                   descriptionText.includes('10 months ago') ||
                   descriptionText.includes('11 months ago') ||
-                  descriptionText.includes('years') ||
+                  descriptionText.includes('year') ||
                   descriptionText.includes('no known previous owner') ||
                   descriptionText.includes('12 months ago')) {
                 // If the description contains a keyword indicating a long time period, reset the flag to false
