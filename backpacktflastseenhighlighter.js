@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Backpack.tf Last Seen Highlighter
 // @namespace    https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter
-// @version      1.1021
+// @version      1.1
 // @description  Highlight last seen entries in Backpack.tf based on their recency
 // @author       JayTuut
 // @match        https://backpack.tf/*
