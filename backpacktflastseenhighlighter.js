@@ -9,8 +9,7 @@
 
 // @homepageURL     https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter
 // @supportURL      https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter/issues
-// @downloadURL     https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter/raw/main/backpacktflastseenhighlighter.js
-
+// @downloadURL     https://raw.githubusercontent.com/JayBoom/Backpack.tf-Last-Seen-Highlighter/main/backpacktflastseenhighlighter.js
 // ==/UserScript==
 
 (function() {
