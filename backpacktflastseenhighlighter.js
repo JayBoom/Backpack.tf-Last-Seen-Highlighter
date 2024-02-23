@@ -1,11 +1,16 @@
 // ==UserScript==
 // @name         Backpack.tf Last Seen Highlighter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter
 // @version      1.1021
 // @description  Highlight last seen entries in Backpack.tf based on their recency
 // @author       JayTuut
 // @match        https://backpack.tf/*
 // @grant        none
+
+// @homepageURL     https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter
+// @supportURL      https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter/issues
+// @downloadURL     https://github.com/JayBoom/Backpack.tf-Last-Seen-Highlighter/raw/main/backpacktflastseenhighlighter.js
+
 // ==/UserScript==
 
 (function() {
